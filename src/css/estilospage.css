@@ -1,0 +1,23 @@
+.cabecera{
+    border: solid 1px;
+    padding: 30;
+    margin: 10;
+}
+.menubar{
+    padding: 50;
+}
+.busqueda{
+   
+    border:1px solid peachpuff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.table{
+    margin-left: 5px;
+    margin-right: 10px;
+}

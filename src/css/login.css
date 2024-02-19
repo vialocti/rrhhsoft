@@ -1,0 +1,29 @@
+
+.login { 
+    padding:20px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -150px 0 0 -150px;
+	width:400px;
+	height:300px;
+    border:solid;
+    border-color:blue;
+    border-radius:10px;
+    border-shadow: 0 0 10px rgba(167,167,167,0,8);
+}
+
+.login h1 { color: #04B; letter-spacing:2px; text-align:center; }
+.login button {width:100%;color:#000;margin-top:20px}
+.login form{margin-top:40px}
+.inputU { 
+	width: 100%; 
+	margin-bottom: 15px; 
+	background: rgba(0,0,0,0.3);
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 13px;
+	color: #fff;
+	
+}
